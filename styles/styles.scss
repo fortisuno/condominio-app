@@ -1,0 +1,9 @@
+$accordion-button-focus-box-shadow: 		none;
+$accordion-border-width:                  0;
+$accordion-padding-y:                     0.5rem;
+$accordion-body-padding-y:						0rem;
+$accordion-bg:										transparent;
+$accordion-button-active-bg:             	$accordion-bg;
+$accordion-button-active-color:           #000;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
